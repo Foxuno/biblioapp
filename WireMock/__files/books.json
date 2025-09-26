@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Cien Años de Soledad",
+    "author": "Gabriel García Márquez",
+    "description": "Crónica de varias generaciones de la familia Buendía en Macondo.",
+    "genre": "Realismo mágico"
+  },
+  {
+    "id": 2,
+    "name": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "description": "Un niño de otro planeta enseña lecciones de vida a un aviador.",
+    "genre": "Fábula"
+  },
+  {
+    "id": 3,
+    "name": "1984",
+    "author": "George Orwell",
+    "description": "Un mundo distópico bajo vigilancia totalitaria.",
+    "genre": "Ciencia ficción"
+  }
+]

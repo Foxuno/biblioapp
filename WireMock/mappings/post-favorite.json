@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/favorites"
+  },
+  "response": {
+    "status": 201,
+    "jsonBody": {
+      "success": true,
+      "message": "Libro agregado a favoritos"
+    },
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
